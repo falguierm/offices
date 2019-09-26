@@ -1,0 +1,176 @@
+{
+  "count": 5,
+  "data": [
+    {
+      "name": "Fabernovel Paris",
+      "description": "Cupcake ipsum dolor sit amet marzipan caramels dragée. I love muffin croissant jelly chupa chups I love. Candy canes tiramisu marzipan jelly icing sugar plum I love gummies muffin.",
+      "employees_count": 350,
+      "open_date": "01/06/2019",
+      "location": {
+        "city": "Paris",
+        "number": "46",
+        "address": "rue de Saint Lazare",
+        "postal_code": "75009",
+        "country": "France",
+        "language": ["fr", "en"],
+        "continent": {
+          "label": "Europe",
+          "key": "europe"
+        }
+      },
+      "remote_available": true
+    },
+    {
+      "name": "Fabernovel Nantes",
+      "description": "Cupcake ipsum dolor sit amet marzipan caramels dragée. I love muffin croissant jelly chupa chups I love. Candy canes tiramisu marzipan jelly icing sugar plum I love gummies muffin.",
+      "employees_count": 8,
+      "open_date": "01/09/2013",
+      "location": {
+        "city": "Nantes",
+        "number": "35",
+        "address": "rue de Crucy",
+        "postal_code": "44100",
+        "country": "France",
+        "language": ["fr", "en"],
+        "continent": {
+          "label": "Europe",
+          "key": "europe"
+        }
+      },
+      "remote_available": true
+    },
+    {
+      "name": "Fabernovel Lyon",
+      "description": "Cupcake ipsum dolor sit amet marzipan caramels dragée. I love muffin croissant jelly chupa chups I love. Candy canes tiramisu marzipan jelly icing sugar plum I love gummies muffin.",
+      "employees_count": 30,
+      "open_date": "20/10/2019",
+      "location": {
+        "city": "Lyon",
+        "number": "34",
+        "address": "rue Verlet Hanus",
+        "postal_code": "69003",
+        "country": "France",
+        "language": ["fr", "en"],
+        "continent": {
+          "label": "Europe",
+          "key": "europe"
+        }
+      },
+      "remote_available": false
+    },
+    {
+      "name": "Fabernovel Bordeaux",
+      "description": "Cupcake ipsum dolor sit amet marzipan caramels dragée. I love muffin croissant jelly chupa chups I love. Candy canes tiramisu marzipan jelly icing sugar plum I love gummies muffin.",
+      "employees_count": 20,
+      "open_date": "20/10/2018",
+      "location": {
+        "city": "Bordeaux",
+        "number": "2",
+        "address": "rue Jardin de l'Ars",
+        "postal_code": "33800",
+        "country": "France",
+        "language": ["fr", "en"],
+        "continent": {
+          "label": "Europe",
+          "key": "europe"
+        }
+      },
+      "remote_available": false
+    },
+    {
+      "name": "Fabernovel Toulouse",
+      "description": "Cupcake ipsum dolor sit amet marzipan caramels dragée. I love muffin croissant jelly chupa chups I love. Candy canes tiramisu marzipan jelly icing sugar plum I love gummies muffin.",
+      "employees_count": 5,
+      "open_date": "20/07/2018",
+      "location": {
+        "city": "Toulouse",
+        "number": "42",
+        "address": "rue des Filatiers",
+        "postal_code": "31000",
+        "country": "France",
+        "language": ["fr", "en"],
+        "continent": {
+          "label": "Europe",
+          "key": "europe"
+        }
+      },
+      "remote_available": false
+    },
+    {
+      "name": "Fabernovel Lisbonne",
+      "description": "Cupcake ipsum dolor sit amet marzipan caramels dragée. I love muffin croissant jelly chupa chups I love. Candy canes tiramisu marzipan jelly icing sugar plum I love gummies muffin.",
+      "employees_count": 5,
+      "open_date": "20/10/2016",
+      "location": {
+        "city": "Lisbonne",
+        "number": "541",
+        "address": "Avenida Saboia",
+        "postal_code": "2765-277 Monte Estoril",
+        "country": "Portugal",
+        "language": ["en", "pt"],
+        "continent": {
+          "label": "Europe",
+          "key": "europe"
+        }
+      },
+      "remote_available": false
+    },
+    {
+      "name": "Fabernovel San Francisco",
+      "description": "Cupcake ipsum dolor sit amet marzipan caramels dragée. I love muffin croissant jelly chupa chups I love. Candy canes tiramisu marzipan jelly icing sugar plum I love gummies muffin.",
+      "employees_count": 3,
+      "open_date": "20/10/2019",
+      "location": {
+        "city": "San Francisco",
+        "number": "169",
+        "address": "11th St",
+        "postal_code": "CA 94103",
+        "country": "United States",
+        "language": ["en"],
+        "continent": {
+          "label": "Amerique",
+          "key": "amerique"
+        }
+      },
+      "remote_available": false
+    },
+    {
+      "name": "Fabernovel Shanghai",
+      "description": "Cupcake ipsum dolor sit amet marzipan caramels dragée. I love muffin croissant jelly chupa chups I love. Candy canes tiramisu marzipan jelly icing sugar plum I love gummies muffin.",
+      "employees_count": 5,
+      "open_date": "20/10/2019",
+      "location": {
+        "city": "Shanghai",
+        "number": "1258",
+        "address": "Yu Yuan Road",
+        "postal_code": "2000050",
+        "country": "China",
+        "language": ["cn", "en"],
+        "continent": {
+          "label": "Asie",
+          "key": "asie"
+        }
+      },
+      "remote_available": false
+    },
+    {
+      "name": "Fabernovel Singapour",
+      "description": "Cupcake ipsum dolor sit amet marzipan caramels dragée. I love muffin croissant jelly chupa chups I love. Candy canes tiramisu marzipan jelly icing sugar plum I love gummies muffin.",
+      "employees_count": 7,
+      "open_date": "20/05/2015",
+      "location": {
+        "city": "Singapour",
+        "number": "1",
+        "address": "North Bridge Road",
+        "postal_code": "CA 0431",
+        "country": "",
+        "language": ["cn", "en"],
+        "continent": {
+          "label": "Asie",
+          "key": "asie"
+        }
+      },
+      "remote_available": false
+    }
+  ]
+}
